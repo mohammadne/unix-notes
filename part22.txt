@@ -2,7 +2,8 @@
 !!
 !$
 
-sudo : super user do
+sudo : substitude user do
+temporarily change the user till 5 minutes
 
 .zsh_history => will holds all the searched commands
 
