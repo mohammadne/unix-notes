@@ -1,0 +1,13 @@
+2 important commands :
+!!
+!$
+
+sudo : super user do
+
+.zsh_history => will holds all the searched commands
+
+nano file.txt
+cat !$ => cat file.txt
+!$ : last command arguments
+
+!! : whole last command
